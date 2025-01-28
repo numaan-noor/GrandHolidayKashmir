@@ -2803,6 +2803,52 @@ h3 {
 }
 
 /* line 80, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_destination.scss */
+.destination_banner_wrap1 {
+  background-image: url(../img/place/dallake.jpg);
+  padding: 340px 0;
+  background-size: cover;
+  background-position: center center;
+}
+
+/* line 80, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_destination.scss */
+.destination_banner_wrap2 {
+  background-image: url(../img/place/sonmarg.jpg);
+  padding: 340px 0;
+  background-size: cover;
+  background-position: center center;
+}
+
+/* line 80, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_destination.scss */
+.destination_banner_wrap3 {
+  background-image: url(../img/place/gulmarg.jpg);
+  padding: 340px 0;
+  background-size: cover;
+  background-position: center center;
+}
+
+.destination_banner_wrap4 {
+  background-image: url(../img/place/ladakh1.jpg);
+  padding: 340px 0;
+  background-size: cover;
+  background-position: center center;
+}
+
+.destination_banner_wrap5 {
+  background-image: url(../img/place/pahalgam.jpg);
+  padding: 340px 0;
+  background-size: cover;
+  background-position: center center;
+}
+
+.destination_banner_wrap6 {
+  background-image: url(../img/place/veshno.jpg);
+  padding: 340px 0;
+  background-size: cover;
+  background-position: center center;
+}
+
+
+/* line 80, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_destination.scss */
 .destination_banner_wrap {
   background-image: url(../img/banner/destination.png);
   padding: 340px 0;
